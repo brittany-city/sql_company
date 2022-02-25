@@ -2,6 +2,8 @@
 
 ## Motivation
 * Practice SQL skills and provide practice questions for those interested in practicing as well. 
+* Part 1 practice questions (without answers) can be found here: https://docs.google.com/document/d/1wHtlfSbibD5bSNZhXw0ew0O5rjB6QuzH/edit?usp=sharing&ouid=117052082356687062065&rtpof=true&sd=true
+* Part 2 practice questions (without answers) can be found here: https://docs.google.com/document/d/1jIazdzfGXyFCBDHa4134EUQRvczSQK5g/edit?usp=sharing&ouid=117052082356687062065&rtpof=true&sd=true
 
 ## SQL Topics Covered
 * SELECT/SELECT DISTINCT, ALIAS
